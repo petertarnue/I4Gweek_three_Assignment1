@@ -8,7 +8,7 @@ def rock_paper_scissor_game():
         player = input("Please enter your choice (rock, paper, scissors): ")
         player = player.upper()
 
-        possible_game_action = ["R", "P", "S"]
+        possible_game_action = ["R", "P", "S"] 
 
         computer = random.choice(possible_game_action)
 
