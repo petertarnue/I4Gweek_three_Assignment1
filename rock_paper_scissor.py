@@ -1,7 +1,6 @@
 # import the random module
 import random 
 
-
 def rock_paper_scissor_game():
     print(' ')
     while True:
